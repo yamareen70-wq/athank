@@ -1,0 +1,6 @@
+{
+  "name": "مواقيت — أوقات الصلاة والقبلة",
+  "description": "تطبيق عصري وبسيط لحساب أوقات الصلاة بدقة مع تنبيهات الأذان وبوصلة تحديد اتجاه القبلة.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

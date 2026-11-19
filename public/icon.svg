@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F5132" />
+      <stop offset="100%" stop-color="#082D1C" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E7C983" />
+      <stop offset="100%" stop-color="#B88E40" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <circle cx="256" cy="256" r="164" fill="none" stroke="url(#gold)" stroke-width="6" stroke-opacity="0.45" />
+  <circle cx="256" cy="256" r="136" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-opacity="0.16" />
+  <!-- Geometric 8-point star accent -->
+  <path d="M256 106 L278 164 L336 142 L314 200 L372 222 L314 244 L336 302 L278 280 L256 338 L234 280 L176 302 L198 244 L140 222 L198 200 L176 142 L234 164 Z" fill="url(#gold)" fill-opacity="0.18" />
+  <!-- Crescent & Arch Mosque Emblem -->
+  <path d="M276 160 A78 78 0 1 0 344 268 A62 62 0 1 1 276 160 Z" fill="url(#gold)" />
+  <path d="M188 344 L188 292 C188 258 218 236 256 236 C294 236 324 258 324 292 L324 344 Z" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" />
+  <circle cx="256" cy="296" r="14" fill="url(#gold)" />
+</svg>
